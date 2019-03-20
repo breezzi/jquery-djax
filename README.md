@@ -1,7 +1,7 @@
 # DJAX (dynamic-ajax)
 
 ## DONATE
-If you want to donate, this is the link [donate with paypal](https://www.paypal.com). 
+If you want to donate, please send the donation to **breezzi96@gmail.com**. 
 
 ## v1.0
 ### see files of djax
